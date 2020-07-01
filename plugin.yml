@@ -1,0 +1,4 @@
+name: ver_CustomCommands
+version: 0.1
+author: VerttyPL, BergU
+main: pl.vertty.commands.Main
