@@ -1,9 +1,15 @@
 # ver_CustomCommands
+Plugin na tworzenie komend!
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+Kod sprzed 2-3 lat, robiony z nudow.
+## Lista funkcji
+- tworzenie custom komend
+- mozliwosc dodania permisji
 
-Plugin pozwala stworzyć komendy za pomocą configu.
+## Plik config.yml
 
-# Nowe funkcje!
+```yml
+sam sie genruje wiec no xd
+```
+## Jeżeli znajdziesz błąd napisz na dc: VerttyPL#7533
 
-  - Komenda pod pozwolenie.
