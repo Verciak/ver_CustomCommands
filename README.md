@@ -1,7 +1,7 @@
 # ver_CustomCommands
 Plugin na tworzenie komend!
 
-Kod sprzed 2-3 lat, robiony z nudow.
+Kod sprzed 4 lat, robiony z nudow.
 ## Lista funkcji
 - tworzenie custom komend
 - mozliwosc dodania permisji
